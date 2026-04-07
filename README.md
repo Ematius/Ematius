@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Emad 👋</h1>
 
-<!--
-**Ematius/Ematius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Web Developer in training</b> | DAW Student | Started with Angular | Specializing in React
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm currently studying **DAW (Web Application Development)** and building my path as a web developer with a strong and structured foundation in software development.
+
+My technical base was built through a **Level 3 Professional Certificate (around 600 hours)**, where I trained in:
+
+- **Frontend Development**
+- **Backend Development**
+- **Databases**
+
+This gave me a solid understanding of how web applications are built from both the **client side** and the **server side**.
+
+I started working with **Angular**, which helped me develop a strong understanding of application structure, component-based architecture, and frontend best practices.  
+Currently, I’m specializing in **React**, deepening my knowledge of modern UI development, reusable components, and scalable frontend solutions.
+
+---
+
+## 🎯 Current Focus
+
+- Improving my frontend development skills
+- Specializing in **React**
+- Building clean and structured projects
+- Strengthening my knowledge of full stack development
+- Growing through real-world practice and professional opportunities
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- React
+
+### Backend
+- Node.js
+- Express
+- NestJS
+
+### Databases
+- MySQL
+- Prisma
+
+### Tools
+- Git
+- GitHub
+- REST APIs
+
+---
+
+## 💡 What Defines Me
+
+- Commitment to continuous learning
+- Clean and structured code mindset
+- Curiosity and consistency
+- Strong motivation to grow as a developer
+- Interest in real projects and professional teamwork
+
+---
+
+## 📌 Goal
+
+My goal is to continue growing as a developer, contribute to real projects, learn from experienced teams, and keep strengthening my technical skills step by step.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ⭐
+</p>
+
