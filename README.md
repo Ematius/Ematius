@@ -10,7 +10,7 @@
 
 I'm currently studying **DAW (Web Application Development)** and building my path as a web developer with a strong and structured foundation in software development.
 
-My technical base was built through a **Level 3 Professional Certificate (around 600 hours)**, where I trained in:
+My technical base was built through a **Level 3 Professional Certificate (660 hours in total: 520 hours of theoretical training and 160 hours of practical training)**, where I trained in:
 
 - **Frontend Development**
 - **Backend Development**
