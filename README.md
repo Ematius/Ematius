@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emad 👋</h1>
 
 <p align="center">
-  <b>Web Developer in training</b> | DAW Student | Started with Angular | Specializing in React
+  <b>Web Developer</b> | DAW Student | Started with Angular | Specializing in React
 </p>
 
 ---
