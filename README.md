@@ -31,10 +31,13 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,nestjs,mysql,prisma,git,github&perline=14" height="48" alt="Tech Stack" />
-  <img src="./assets/cursor.svg" height="48" alt="Cursor" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs&perline=7" height="48" alt="Tech Stack row 1" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,nestjs,mysql,prisma,git,github&perline=6" height="48" alt="Tech Stack row 2" />
+  <img src="./assets/cursor.svg" height="48" alt="Cursor" />
+</p>
 ---
 
 <div align="center">
