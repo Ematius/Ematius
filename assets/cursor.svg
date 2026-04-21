@@ -1,4 +1,5 @@
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=650&lines=Clean+code.;React+focus.;Full+stack+mindset."
-  alt="Typing SVG"
-/>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#111827"/>
+  <path d="M20 18L44 32L20 46L26 32L20 18Z" fill="#F9FAFB"/>
+  <path d="M30 24L40 32L30 40" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
