@@ -1,88 +1,43 @@
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Emad banner" />
+
 # Hi, I'm Emad 👋
 
-### Web Developer | DAW Student | Started with Angular | Specializing in React
+**Web Developer · DAW Student · Angular background · React focus**
 
-<p>
-  Passionate about building clean, structured, and scalable web applications.
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+clean+and+structured+web+applications.;Angular+background+%C2%B7+React+focus.;Frontend%2C+backend+and+database+training."
+  alt="Typing SVG"
+/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm currently studying **DAW (Web Application Development)** and building my path as a **web developer**.
-
-My technical foundation was built through a **Level 3 Professional Certificate**  
-**(660 hours in total: 520 hours of theoretical training and 160 hours of practical training)**, where I trained in:
-
-- **Frontend Development**
-- **Backend Development**
-- **Databases**
-
-This gave me a solid understanding of how web applications are built from both the **client side** and the **server side**.
-
-I started working with **Angular**, which helped me understand application structure, component-based architecture, and frontend best practices.
-
-Currently, I’m specializing in **React**, deepening my knowledge of modern UI development, reusable components, and scalable frontend solutions.
+- DAW student
+- Trained in frontend, backend, and databases
+- Started with **Angular**
+- Currently specializing in **React**
 
 ---
 
-## 🎯 Current Focus
+## Tech Stack
 
-- Improving my frontend development skills
-- Specializing in **React**
-- Building clean and structured projects
-- Strengthening my full stack knowledge
-- Growing through real-world practice and professional opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,nestjs,mysql,prisma,git,github&perline=7" />
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<p align="center">
+  <img src="./assets/cursor.svg" height="48" alt="Cursor IDE" />
 </p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,prisma" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 💡 What Defines Me
-
-- Commitment to continuous learning
-- Clean and structured coding mindset
-- Curiosity and consistency
-- Strong motivation to grow as a developer
-- Interest in real projects and professional teamwork
-
----
-
-## 📌 Goal
-
-My goal is to continue growing as a developer, contribute to real projects, learn from experienced teams, and strengthen my technical skills step by step.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
+Thanks for visiting my profile ⭐
 
 </div>
