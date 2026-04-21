@@ -26,13 +26,10 @@
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,nestjs,mysql,prisma,git,github&perline=7" />
-</p>
-
-<p align="center">
   <img src="./assets/cursor.svg" height="48" alt="Cursor IDE" />
-</p>
+</div>
 
 ---
 
