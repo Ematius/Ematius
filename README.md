@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,nestjs,mysql,prisma,git,github&perline=6" height="48" alt="Tech Stack row 2" />
-  <img src="./assets/cursor.png" height="48" alt="Cursor" />
+  <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-1.png" height="48" alt="Cursor" />
 </p>
 
 ---
