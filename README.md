@@ -1,16 +1,23 @@
-<h1 align="center">Hi, I'm Emad 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Web Developer</b> | DAW Student | Started with Angular | Specializing in React
+# Hi, I'm Emad 👋
+
+### Web Developer | DAW Student | Started with Angular | Specializing in React
+
+<p>
+  Passionate about building clean, structured, and scalable web applications.
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm currently studying **DAW (Web Application Development)** and building my path as a web developer with a strong and structured foundation in software development.
+I'm currently studying **DAW (Web Application Development)** and building my path as a **web developer**.
 
-My technical base was built through a **Level 3 Professional Certificate (660 hours in total: 520 hours of theoretical training and 160 hours of practical training)**, where I trained in:
+My technical foundation was built through a **Level 3 Professional Certificate**  
+**(660 hours in total: 520 hours of theoretical training and 160 hours of practical training)**, where I trained in:
 
 - **Frontend Development**
 - **Backend Development**
@@ -18,7 +25,8 @@ My technical base was built through a **Level 3 Professional Certificate (660 ho
 
 This gave me a solid understanding of how web applications are built from both the **client side** and the **server side**.
 
-I started working with **Angular**, which helped me develop a strong understanding of application structure, component-based architecture, and frontend best practices.  
+I started working with **Angular**, which helped me understand application structure, component-based architecture, and frontend best practices.
+
 Currently, I’m specializing in **React**, deepening my knowledge of modern UI development, reusable components, and scalable frontend solutions.
 
 ---
@@ -28,41 +36,39 @@ Currently, I’m specializing in **React**, deepening my knowledge of modern UI 
 - Improving my frontend development skills
 - Specializing in **React**
 - Building clean and structured projects
-- Strengthening my knowledge of full stack development
+- Strengthening my full stack knowledge
 - Growing through real-world practice and professional opportunities
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
-- React
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
+</p>
 
 ### Backend
-- Node.js
-- Express
-- NestJS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
 ### Databases
-- MySQL
-- Prisma
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 💡 What Defines Me
 
 - Commitment to continuous learning
-- Clean and structured code mindset
+- Clean and structured coding mindset
 - Curiosity and consistency
 - Strong motivation to grow as a developer
 - Interest in real projects and professional teamwork
@@ -71,11 +77,12 @@ Currently, I’m specializing in **React**, deepening my knowledge of modern UI 
 
 ## 📌 Goal
 
-My goal is to continue growing as a developer, contribute to real projects, learn from experienced teams, and keep strengthening my technical skills step by step.
+My goal is to continue growing as a developer, contribute to real projects, learn from experienced teams, and strengthen my technical skills step by step.
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile ⭐
-</p>
+<div align="center">
 
+### Thanks for visiting my profile ⭐
+
+</div>
