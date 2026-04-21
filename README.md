@@ -17,10 +17,14 @@
 
 ## About Me
 
+- **Level 3 Professional Certificate** **(600 hours: 520 hours of theoretical training + 80 hours of practical training)**
+- frontend, backend, and databases
 - DAW student
-- Trained in frontend, backend, and databases
 - Started with **Angular**
 - Currently specializing in **React**
+- Use NestJs
+- MySQL
+
 
 ---
 
