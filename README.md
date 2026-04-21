@@ -7,7 +7,7 @@
 **Web Developer · DAW Student · Angular · React · NestJs · MySQL**
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+clean+and+structured+web+applications.;Angular+%C2%B7+React+NestJs+MySQL.;Frontend%2C+backend+and+database."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+clean+and+structured+web+applications.;Angular+%C2%B7+React+%C2%B7+NestJs+%C2%B7+MySQL.;Frontend%2C+backend+and+database."
   alt="Typing SVG"
 />
 
