@@ -1,0 +1,47 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.5" stop-color="#0B1630"/>
+      <stop offset="1" stop-color="#120A3A"/>
+    </linearGradient>
+
+    <linearGradient id="wave1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0.25"/>
+    </linearGradient>
+
+    <filter id="blur" x="-200" y="-200" width="1600" height="700" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+
+  <g filter="url(#blur)">
+    <circle cx="170" cy="70" r="95" fill="#06B6D4" fill-opacity="0.14"/>
+    <circle cx="1020" cy="70" r="120" fill="#4F46E5" fill-opacity="0.18"/>
+    <circle cx="650" cy="30" r="90" fill="#2563EB" fill-opacity="0.12"/>
+  </g>
+
+  <path d="M0 155C113 135 213 180 333 168C445 157 515 150 620 138C751 123 870 118 1200 135V210H0V155Z" fill="url(#wave2)"/>
+  <path d="M0 170C138 188 247 147 383 152C523 156 627 128 762 121C912 113 1045 122 1200 145V220H0V170Z" fill="url(#wave1)"/>
+
+  <text x="60" y="92" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">
+    Emad
+  </text>
+
+  <text x="60" y="128" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
+    Web Developer · DAW Student
+  </text>
+
+  <text x="60" y="162" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Angular background · React focus
+  </text>
+</svg>
