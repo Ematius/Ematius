@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,nestjs,mysql,prisma,git,github&perline=7" />
-  <img src="./assets/cursor.svg" height="48" alt="Cursor IDE" />
+  <img padding="0" margin="0" align="left" src="./assets/cursor.svg" height="48" alt="Cursor IDE" />
 </div>
 
 ---
