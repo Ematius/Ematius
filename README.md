@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1408d0,50:0860d0,100:08c4d0&height=70&section=footer" width="100%" alt="wave" />
   <img src="./assets/banner.svg" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1408d0,50:0860d0,100:08c4d0&height=70&section=footer" width="100%" alt="wave" />
 </p>
 
 # Hi, I'm Emad 👋
